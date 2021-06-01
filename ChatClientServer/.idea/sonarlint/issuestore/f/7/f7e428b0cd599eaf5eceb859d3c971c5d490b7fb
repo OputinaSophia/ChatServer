@@ -1,0 +1,11 @@
+
+I
+java:S1948".Make "clientSocket" transient or serializable.(òÑ©—şÿÿÿÿ
+E	java:S108x")Either remove or fill this block of code.(ŞÜ¸È8Ú²Õ‘œ/
+A
+java:S1948"+Make "inMessage" transient or serializable.(ÅšÅĞ
+V	java:S110"<This class has 6 parents which is greater than 5 authorized.(¤é¾Ùùÿÿÿÿ
+h
+java:S3776-"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(‰åâ¯
+G
+java:S1948 ",Make "outMessage" transient or serializable.(­ı»ÿÿÿÿÿ

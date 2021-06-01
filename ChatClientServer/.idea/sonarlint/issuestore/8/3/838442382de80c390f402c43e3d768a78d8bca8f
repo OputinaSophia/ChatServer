@@ -1,0 +1,9 @@
+
+a
+java:S2142E"FEither re-interrupt this method or rethrow the "InterruptedException".(Ê‰¬åÿÿÿÿÿ
+z
+java:S3008"XRename this field "clients_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÃøÿÿÿÿ8å…Ê‘œ/
+U	java:S106="9Replace this use of System.out or System.err by a logger.(İÎ×‰8¤Ã‘œ/
+X
+java:S2696\"6Make the enclosing method "static" or remove this set.(›Îüúÿÿÿÿ8å…Ê‘œ/
+Q	java:S125,"<This block of commented-out lines of code should be removed.(«Æ«

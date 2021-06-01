@@ -1,0 +1,11 @@
+
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(½÷•­
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿ñ±«
+`
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ÂÀª
+=
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+`
+java:S22590"JA "NullPointerException" could be thrown; "clientSocket" is nullable here.(²­¨
